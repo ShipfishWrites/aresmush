@@ -49,7 +49,7 @@ en:
         
         none: "None"
         
-        char_on_roster: "This character is on the roster."
+        char_on_roster: "This egg is up for claim."
         char_gone: "This character is retired."
         char_dead: "This character is deceased."
         char_is_npc: "This character is a NPC."
